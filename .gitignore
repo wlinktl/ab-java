@@ -1,3 +1,4 @@
+
 # Compiled class file
 *.class
 
@@ -41,3 +42,7 @@ build
 
 # Ignore the macOS folder attribute file
 **/.DS_Store
+
+.gradle*/**/*.lock
+.gradle*/
+
