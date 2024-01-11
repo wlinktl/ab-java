@@ -46,5 +46,5 @@ build
 .gradle*/**/*.lock
 .gradle*/
 
-.gradle/8.1.1/checksums/checksums.lock
-.gradle/8.1.1/fileHashes/fileHashes.lock
+.gradle/**/checksums/checksums.lock
+.gradle/**/fileHashes/fileHashes.lock
